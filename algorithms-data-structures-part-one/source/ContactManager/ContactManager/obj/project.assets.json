@@ -199,31 +199,37 @@
     ]
   },
   "packageFolders": {
-    "/Users/robert/.nuget/packages/": {}
+    "C:\\Users\\mensinkja\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/robert/Projects/ADS1/ContactManager/ContactManager/ContactManager.csproj",
+      "projectUniqueName": "C:\\Users\\mensinkja\\Documents\\Coding Practice\\Pluralsight\\AlgorithmsAndDataStructures\\algorithms-data-structures-part-one\\source\\ContactManager\\ContactManager\\ContactManager.csproj",
       "projectName": "ContactManager",
-      "projectPath": "/Users/robert/Projects/ADS1/ContactManager/ContactManager/ContactManager.csproj",
-      "packagesPath": "/Users/robert/.nuget/packages/",
-      "outputPath": "/Users/robert/Projects/ADS1/ContactManager/ContactManager/obj/",
+      "projectPath": "C:\\Users\\mensinkja\\Documents\\Coding Practice\\Pluralsight\\AlgorithmsAndDataStructures\\algorithms-data-structures-part-one\\source\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "packagesPath": "C:\\Users\\mensinkja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mensinkja\\Documents\\Coding Practice\\Pluralsight\\AlgorithmsAndDataStructures\\algorithms-data-structures-part-one\\source\\ContactManager\\ContactManager\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/robert/.config/NuGet/NuGet.Config"
+        "C:\\Users\\mensinkja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/robert/Projects/ADS1/DataStructures/DataStructures/DataStructures.csproj": {
-              "projectPath": "/Users/robert/Projects/ADS1/DataStructures/DataStructures/DataStructures.csproj"
+            "C:\\Users\\mensinkja\\Documents\\Coding Practice\\Pluralsight\\AlgorithmsAndDataStructures\\algorithms-data-structures-part-one\\source\\DataStructures\\DataStructures\\DataStructures.csproj": {
+              "projectPath": "C:\\Users\\mensinkja\\Documents\\Coding Practice\\Pluralsight\\AlgorithmsAndDataStructures\\algorithms-data-structures-part-one\\source\\DataStructures\\DataStructures\\DataStructures.csproj"
             }
           }
         }
@@ -254,7 +260,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
